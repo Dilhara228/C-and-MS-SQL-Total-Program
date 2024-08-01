@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\TotalProgram\bin\Debug\TotalProgram.exe.config
+C:\Users\Admin\source\repos\TotalProgram\bin\Debug\TotalProgram.exe
+C:\Users\Admin\source\repos\TotalProgram\bin\Debug\TotalProgram.pdb
+C:\Users\Admin\source\repos\TotalProgram\obj\Debug\TotalProgram.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TotalProgram\obj\Debug\TotalProgram.frmFindTotal.resources
+C:\Users\Admin\source\repos\TotalProgram\obj\Debug\TotalProgram.Properties.Resources.resources
+C:\Users\Admin\source\repos\TotalProgram\obj\Debug\TotalProgram.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\TotalProgram\obj\Debug\TotalProgram.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TotalProgram\obj\Debug\TotalProgram.exe
+C:\Users\Admin\source\repos\TotalProgram\obj\Debug\TotalProgram.pdb
+D:\Vb2019\TotalProgram\obj\Debug\TotalProgram.csproj.AssemblyReference.cache
+D:\Vb2019\TotalProgram\obj\Debug\TotalProgram.frmFindTotal.resources
+D:\Vb2019\TotalProgram\obj\Debug\TotalProgram.Properties.Resources.resources
+D:\Vb2019\TotalProgram\obj\Debug\TotalProgram.csproj.GenerateResource.cache
+D:\Vb2019\TotalProgram\obj\Debug\TotalProgram.csproj.CoreCompileInputs.cache
+D:\Vb2019\TotalProgram\obj\Debug\TotalProgram.exe
+D:\Vb2019\TotalProgram\obj\Debug\TotalProgram.pdb
